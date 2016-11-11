@@ -1,3 +1,3 @@
-# _*_coding_*_utf8
-print 'hello world!'
-
+#!/usr/bin/env
+# _*_ coding:utf-8 _*_
+print "hello world!"
